@@ -1,0 +1,22 @@
+.font-roboto {
+    font-family: var(--formalFont1)
+}
+
+.info-card-flex-row-reverse {
+    flex-direction: row-reverse!important;
+}
+
+.right-500px{
+    right: 500px!important;
+}
+
+.left-auto{
+    left: auto!important;
+}
+
+.opacity-0{
+    opacity: 0!important;
+}
+.opacity-1{
+    opacity: 0!important;
+}
